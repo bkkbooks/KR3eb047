@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3eb047/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 新編診脈須知
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb047.xml
+hash: sha256:21ce72326faecb7316111f7d8e4a5bf5ffc9f223b78f30454627f7fbf6c16c2a
