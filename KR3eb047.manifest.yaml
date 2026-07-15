@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eb047/v1
 canonical_location: https://kanripo.org/bkk/KR3eb047/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 新編診脈須知
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3eb047_001.yaml
     hash: sha256:21ce72326faecb7316111f7d8e4a5bf5ffc9f223b78f30454627f7fbf6c16c2a
 table_of_contents: []
-hash: sha256:896d736073ed0376a965177a3142c1842066d4dc9030f7bcf143e4f97d20d7de
+hash: sha256:7c0b18125c569644251a312995b20c27a774d98dda39ef65d9eb18589affb96e
